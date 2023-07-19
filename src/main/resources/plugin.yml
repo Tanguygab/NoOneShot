@@ -1,0 +1,6 @@
+name: NoOneShot
+version: '${version}'
+main: io.github.tanguygab.nooneshot.NoOneShot
+api-version: '1.20'
+authors: [Tanguygab]
+description: Prevents players from killing mobs with a single hit 
